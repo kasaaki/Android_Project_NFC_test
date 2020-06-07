@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="togglebutton_write">ToggleButton</string>
+    <string name="readmode">ReadMode</string>
+    <string name="write_mode_text">Write Mode Text</string>
+    <string name="read_mode_text">Read Mode Text</string>
+    <string name="togglebutton_read">ToggleButton</string>
+    <string name="radiobutton_read">RadioButton</string>
+    <string name="radiobutton_write">RadioButton</string>
+</resources>
